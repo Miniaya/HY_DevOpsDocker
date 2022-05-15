@@ -1,0 +1,13 @@
+version: "3.8"
+
+services:
+  frontend:
+    build:
+      context: ../../material-applications/example-frontend
+    ports:
+      - 5000:5000
+  backend:
+    build:
+      context: ../../material-applications/example-backend 
+    ports:
+      - 8080:8080
