@@ -34,5 +34,5 @@
 | 2.7 | [docker-compose](https://github.com/Miniaya/HY_DevOpsDocker/blob/main/part2/2.7.%20docker-compose.yml) |
 | 2.8 | [docker-compose](https://github.com/Miniaya/HY_DevOpsDocker/blob/main/part2/2.8.%20docker-compose.yml) |
 | 2.9 | [docker-compose](https://github.com/Miniaya/HY_DevOpsDocker/blob/main/part2/2.9.%20docker-compose.yml) |
-| 2.10 | [1.10: Ports open](https://github.com/Miniaya/HY_DevOpsDocker/blob/main/part1/1.10.png) |
-| 2.11 | [1.11: Spring](https://github.com/Miniaya/HY_DevOpsDocker/blob/main/part1/1.11.%20Dockerfile) |
+| 2.10 | [solution](https://github.com/Miniaya/HY_DevOpsDocker/blob/main/part2/2.10.md) |
+| 2.11 | [solution](https://github.com/Miniaya/HY_DevOpsDocker/blob/main/part2/2.11.md) |
