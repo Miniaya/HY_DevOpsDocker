@@ -20,3 +20,19 @@
 | 1.14 | [1.14: Environment](https://github.com/Miniaya/HY_DevOpsDocker/blob/main/part1/1.14.md) |
 | 1.15 | [1.15: Homework](https://hub.docker.com/repository/docker/miniaya/match-checker) |
 | 1.16 | [1.16: Heroku](https://devops-docker-exercise.herokuapp.com/) |
+
+## Part 2
+
+| Exercise number | Link to the exercise |
+|:---:|---|
+| 2.1 | [docker-compose](https://github.com/Miniaya/HY_DevOpsDocker/blob/main/part2/2.1.%20docker-compose.yml) |
+| 2.2 | [docker-compose](https://github.com/Miniaya/HY_DevOpsDocker/blob/main/part2/2.2.%20docker-compose.yml) |
+| 2.3 | [docker-compose](https://github.com/Miniaya/HY_DevOpsDocker/blob/main/part2/2.3.%20docker-compose.yml) |
+| 2.4 | [docker-compose](https://github.com/Miniaya/HY_DevOpsDocker/blob/main/part2/2.4.%20docker-compose.yml) |
+| 2.5 | [command](https://github.com/Miniaya/HY_DevOpsDocker/blob/main/part2/2.5.png) |
+| 2.6 | [docker-compose](https://github.com/Miniaya/HY_DevOpsDocker/blob/main/part2/2.6.%20docker-compose.yml) |
+| 2.7 | [docker-compose](https://github.com/Miniaya/HY_DevOpsDocker/blob/main/part2/2.7.%20docker-compose.yml) |
+| 2.8 | [docker-compose](https://github.com/Miniaya/HY_DevOpsDocker/blob/main/part2/2.8.%20docker-compose.yml) |
+| 2.9 | [docker-compose](https://github.com/Miniaya/HY_DevOpsDocker/blob/main/part2/2.9.%20docker-compose.yml) |
+| 2.10 | [1.10: Ports open](https://github.com/Miniaya/HY_DevOpsDocker/blob/main/part1/1.10.png) |
+| 2.11 | [1.11: Spring](https://github.com/Miniaya/HY_DevOpsDocker/blob/main/part1/1.11.%20Dockerfile) |
